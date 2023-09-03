@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.31.0](https://github.com/bpg/terraform-provider-proxmox/compare/v0.30.3...v0.31.0) (2023-09-03)
+
+
+### Features
+
+* **provider:** add optional SSH port param to node in provider ssh block ([#520](https://github.com/bpg/terraform-provider-proxmox/issues/520)) ([124cac2](https://github.com/bpg/terraform-provider-proxmox/commit/124cac247ce34e2603b0d1c1c94106d958185708))
+
+
+### Miscellaneous
+
+* **code:** fix `proxmox` package dependencies ([#536](https://github.com/bpg/terraform-provider-proxmox/issues/536)) ([5ecf135](https://github.com/bpg/terraform-provider-proxmox/commit/5ecf13539862bb9602696a7575568f228fc85e29))
+
 ## [0.30.3](https://github.com/bpg/terraform-provider-proxmox/compare/v0.30.2...v0.30.3) (2023-09-01)
 
 
